@@ -10,7 +10,7 @@ A análise tem foco em aspectos como **eficiência logística**, **comportamento
 
 O crescimento do e-commerce no Brasil trouxe novas oportunidades de expansão para as empresas, ao mesmo tempo em que aumentou a complexidade das operações, podendo impactar diretamente a experiência do cliente.  
 
-Nesse cenário, torna-se fundamental compreender **quais fatores realmente influenciam o desempenho do negócio**, tanto do ponto de vista financeiro quanto da satisfação dos clientes ao longo de toda a jornada de compra.
+Nesse cenário, torna-se fundamental compreender **quais fatores realmente influenciam o desempenho do negócio**, tanto do ponto de vista financeiro quanto da satisfação dos clientes.
 
 ---
 
@@ -18,7 +18,7 @@ Nesse cenário, torna-se fundamental compreender **quais fatores realmente influ
 
 Apesar do alto volume de pedidos, a empresa ainda não possui clareza sobre **quais fatores impulsionam a receita e influenciam a satisfação dos clientes**.  
 
-Além disso, não está evidente como aspectos operacionais — especialmente a logística de entrega — impactam a experiência do consumidor. Essa falta de visibilidade dificulta a tomada de decisões estratégicas baseadas em dados.
+Além disso, não está evidente como aspectos operacionais impactam a experiência do consumidor. Essa falta de visibilidade dificulta a tomada de decisões estratégicas baseadas em dados.
 
 ---
 
@@ -30,7 +30,7 @@ Além disso, não está evidente como aspectos operacionais — especialmente a 
 
 ### 🔹 Perguntas analíticas
 
-- Qual é a **correlação** entre o atraso na entrega (em dias) e a **nota de avaliação dos clientes**?  
+- Qual é a **correlação** entre o atraso na entrega e a **nota de avaliação dos clientes**?  
 - Qual é o **ranking dos estados** por receita total e qual a **participação percentual (%) dos 5 principais estados** no faturamento geral?  
 - Qual é o **ranking das categorias de produtos** por faturamento e qual a sua **contribuição para a receita total**?
 
