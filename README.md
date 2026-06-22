@@ -86,7 +86,6 @@ brazilian-e-commerce-olist-analysis/
 ├── sql/
 │   └── 01_create_table.sql
 │   └── 02_eda.sql
-│   └── 03_analysis.sql
 │
 ├── dashboard/
 │   └── dashboard_olist.pbix
